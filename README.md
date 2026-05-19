@@ -5,7 +5,7 @@ I am a Business Analytics and Operations professional proficient in SQL, Salesfo
 🚀 **Target Industries:** Semiconductor | B2B SaaS Enterprise | Sales & Operations
 
 👉 **Check out my portfolio projects below or explore my live interactive visualizations:**
-* View my Multi-Family Housing Production Dashboard: https://www.sanjoseca.gov/your-government/departments-offices/housing/homelessness-program-dashboard **
+* View my Multi-Family Housing Production Dashboard: https://www.sanjoseca.gov/your-government/departments-offices/housing/homelessness-program-dashboard 
 
 
 ---
