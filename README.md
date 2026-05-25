@@ -36,4 +36,4 @@ I am a Business Analytics and Operations professional proficient in SQL, Salesfo
 ## 📫 Let's Connect!
 * 💼 **LinkedIn:** www.linkedin.com/in/hannahcjho
 * 📧 **Email:** hannahch@asu.edu
-* 📍 **Location:** San Jose, CA (Silicon Valley)
+* 📍 **Location:** San Jose, CA 
