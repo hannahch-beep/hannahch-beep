@@ -11,10 +11,28 @@ I am a Business Analytics and Operations professional proficient in SQL, Salesfo
 ---
 
 ## 🌞 Featured Projects & Domains
-* **Operations Excellence & Logistics:** Built algorithmic simulation pipelines to eliminate transit bottlenecks and optimize layout workflows.
-* **Pipeline & Lifecycle Analytics:** Engineered relational tracking models to monitor multi-stage regulatory compliance and asset pipelines.
-* **Guided Business Intelligence:** Migrated legacy enterprise dashboards into frictionless, button-driven executive reporting tools.
-* **Revenue & Sales Operations:** Conducted customer segmentation, competitive price benchmarking, and CRM automated routing rules.
+### 1. Healthcare Supply Chain & Operations Analysis
+* **Domain:** Operations Excellence & Logistics Optimization
+* **Core Stack:** Python, SQL, Inventory Simulation Modeling
+* **Business Impact:** Evaluated hospital and medical device supply chain logistics to identify structural bottlenecks and inventory leakage. Modeled historical consumption rates to optimize safety stock parameters, successfully balancing high-stakes resource availability with strict overhead cost constraints.
+
+
+### 2. Corporate Sales Performance Analytics
+* **Domain:** Revenue & Sales Operations (RevOps)
+* **Core Stack:** SQL, Advanced Excel Modeling, Tableau
+* **Business Impact:** Synthesized multi-regional CRM transactional data to evaluate performance, seasonal trends, and product margin decay. Conducted deep-dive customer segmentation and competitive price benchmarking to identify underperforming revenue streams and uncover high-value customer profiles.
+
+
+### 3. Integrated Health Outcomes (IHO) Program Insight Dashboard
+* **Domain:** Guided Business Intelligence & Executive Reporting
+* **Core Stack:** Power BI / Tableau, User Experience (UX) Dashboard Design, ETL Processing
+* **Business Impact:** Migrated complex, fragmented healthcare delivery metrics into a frictionless, button-driven executive reporting interface. Translated multi-stage regulatory compliance and resource allocation data into high-impact visual trends, giving program directors immediate operational clarity.
+
+
+### 4. Global Semiconductor Company Market Capitalization & Share Analysis
+* **Domain:** Semiconductor Market Intelligence & Data Engineering
+* **Core Stack:** Python, Pandas, Regex (`re`), Matplotlib, Seaborn
+* **Business Impact:** Programmatically cleaned and standardized global financial records for 500+ chip firms, handling multi-lingual corporate suffixes. Quantified geopolitical market concentration using Python visualizations, exposing a stark power-law split between high-margin, asset-light US IP design oligopolies and Taiwan's hyper-dense manufacturing supply chain.
 
 ---
 
