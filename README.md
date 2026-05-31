@@ -26,7 +26,7 @@ I am a Business Analytics and Operations professional proficient in SQL, Salesfo
 ### 3. Inclusionary Housing Ordinance (IHO) Program Insight Dashboard
 * **Domain:** Guided Business Intelligence & Executive Reporting
 * **Core Stack:** Power BI / Tableau, User Experience (UX) Dashboard Design, ETL Processing
-* **Business Impact:** Migrated complex, fragmented healthcare delivery metrics into a frictionless, button-driven executive reporting interface. Translated multi-stage regulatory compliance and resource allocation data into high-impact visual trends, giving program directors immediate operational clarity.
+* **Business Impact:** Migrated complex, fragmented housing delivery metrics into a frictionless, button-driven executive reporting interface. Translated multi-stage regulatory compliance and resource allocation data into high-impact visual trends, giving program directors immediate operational clarity.
 
 
 ### 4. Global Semiconductor Company Market Capitalization & Share Analysis
