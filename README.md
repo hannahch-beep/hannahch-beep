@@ -17,13 +17,13 @@ I am a Business Analytics and Operations professional proficient in SQL, Salesfo
 * **Business Impact:** Evaluated hospital and medical device supply chain logistics to identify structural bottlenecks and inventory leakage. Modeled historical consumption rates to optimize safety stock parameters, successfully balancing high-stakes resource availability with strict overhead cost constraints.
 
 
-### 2. Corporate Sales Performance Analytics
+### 2. Corporate Sales Performance Analysis
 * **Domain:** Revenue & Sales Operations (RevOps)
 * **Core Stack:** SQL, Advanced Excel Modeling, Tableau
 * **Business Impact:** Synthesized multi-regional CRM transactional data to evaluate performance, seasonal trends, and product margin decay. Conducted deep-dive customer segmentation and competitive price benchmarking to identify underperforming revenue streams and uncover high-value customer profiles.
 
 
-### 3. Integrated Health Outcomes (IHO) Program Insight Dashboard
+### 3. Inclusionary Housing Ordinance (IHO) Program Insight Dashboard
 * **Domain:** Guided Business Intelligence & Executive Reporting
 * **Core Stack:** Power BI / Tableau, User Experience (UX) Dashboard Design, ETL Processing
 * **Business Impact:** Migrated complex, fragmented healthcare delivery metrics into a frictionless, button-driven executive reporting interface. Translated multi-stage regulatory compliance and resource allocation data into high-impact visual trends, giving program directors immediate operational clarity.
